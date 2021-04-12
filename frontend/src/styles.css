@@ -1,0 +1,28 @@
+:root {
+  --main-color: #23b5b5;
+  --second: #648458;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}
+
+.v-middle {
+  vertical-align: middle;
+}
+
+.red {
+  color: #e35e6b;
+}
+
+a {
+  text-decoration: none;
+}

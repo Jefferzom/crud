@@ -1,0 +1,17 @@
+.mainColor {
+  color: var(--main-color);
+}
+/* Cor principal  */
+
+.footer {
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer > span {
+  font-size: 1rem;
+  font-weight: 300;
+}

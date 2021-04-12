@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Caderno 20 Matérias",
+      "price": 29.8
+    },
+    {
+      "id": 3,
+      "name": "Mochila 2 compartimentos",
+      "price": 22.9
+    },
+    {
+      "id": 4,
+      "name": "Borracha Preta",
+      "price": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Playstation 4 Pro",
+      "price": 3500
+    },
+    {
+      "id": 6,
+      "name": "Nintendo Switch",
+      "price": "3100.00"
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "Apple Watch",
+      "price": "3600",
+      "id": 9
+    },
+    {
+      "name": "Macbook Pro M1",
+      "price": "18000",
+      "id": 10
+    },
+    {
+      "name": "Iphone XR",
+      "price": "3800",
+      "id": 11
+    }
+  ]
+}

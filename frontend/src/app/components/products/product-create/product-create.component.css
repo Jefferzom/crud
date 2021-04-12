@@ -1,0 +1,14 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-right: 4rem;
+  margin-top: 1rem;
+}
